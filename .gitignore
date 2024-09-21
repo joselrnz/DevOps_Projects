@@ -1,1 +1,6 @@
 SourceVar.sh
+terraform/terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/dev.tfvars
+terraform/.terraform
+terraform/.terraform.lock.hcl
