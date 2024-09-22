@@ -10,5 +10,5 @@ enable_no_public_ip         = true       # Set to true or false as needed
 nsg_name                    = "databricks-nsg"  # Name of the NSG
 public_subnet_name          = "sub-public"
 private_subnet_name          = "sub-private"
-# List of subnets to be created
+
 
